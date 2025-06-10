@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hlltixdg7-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hlltixdg7-python-gitops
